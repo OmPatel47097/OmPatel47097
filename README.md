@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![OmPatel's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmPatel47097)](https://github.com/OmPatel47097/github-readme-stats)
+
 <!--
 **OmPatel47097/OmPatel47097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
