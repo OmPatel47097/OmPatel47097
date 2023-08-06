@@ -2,7 +2,7 @@
 
 **🚀 Passionate about AI and Machine Learning | Turning Data into Insights | Lifelong Learner 📊**
 
-Hey there! I'm [Your Name], an AI and Machine Learning enthusiast on a journey to decode the world through data. I thrive on real-world challenges, translating them into innovative AI solutions. My GitHub showcases a series of impactful projects where AI meets reality, from predictive analytics to computer vision.
+Hey there! I'm Om Patel, an AI and Machine Learning enthusiast on a journey to decode the world through data. I thrive on real-world challenges, translating them into innovative AI solutions. My GitHub showcases a series of impactful projects where AI meets reality, from predictive analytics to computer vision.
 
 I'm addicted to learning, constantly immersing myself in the latest advancements to stay ahead. Whether it's crunching large datasets or pushing the boundaries of AI, I'm all in. Let's connect and explore the boundless opportunities AI brings. Join me as I shape the future with code and creativity! 🤖🔍
 
