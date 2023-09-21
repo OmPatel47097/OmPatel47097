@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompatel47097&label=Profile%20views&color=0e75b6&style=flat" alt="ompatel47097" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompatel47097" alt="ompatel47097" /></a> </p>
-
 - 🔭 My on-going project involves Web-scraping to **Identify insights from customer Reviews of an Airline.**
 
 - 🌱 I’m currently learning **Advance ML concepts and Deep Learning.**
