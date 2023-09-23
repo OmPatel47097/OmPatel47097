@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Om Patel</h1>
+<h1 align="center">Heyy 👋, Myself Om Patel</h1>
 <h3 align="center">A passionate AI and Machine Learning student with a thrive to resolve real world business problems by bribing the Data.📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompatel47097&label=Profile%20views&color=0e75b6&style=flat" alt="ompatel47097" /> </p>
