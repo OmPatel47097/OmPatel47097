@@ -11,7 +11,7 @@
 
 - 🤝 Also It will be nice to have assistance with **Learning AI topics like NLP and More.**
 
-- 💬 Ask me about **ML , AI , State , Data Modeling**
+- 💬 Ask me about **ML, AI, Data Science**
 
 - 📫 You can reach to me on **patelom2002.2016.20@gmail.com**
 
